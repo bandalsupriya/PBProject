@@ -9,6 +9,6 @@ public class Browser2 {
   @Test
   public void f() {
 	   
-		 Reporter.log("Lunching Browser Application ,heyyyy",true);
+		 Reporter.log("Lunching Browser Application ,heyyyy supriya",true);
   }
 }
